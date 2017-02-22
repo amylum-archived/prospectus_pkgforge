@@ -5,7 +5,7 @@ prospectus-pkgforge
 [![Dependency Status](https://img.shields.io/gemnasium/akerl/prospectus-pkgforge.svg)](https://gemnasium.com/akerl/prospectus-pkgforge)
 [![Build Status](https://img.shields.io/circleci/project/akerl/prospectus-pkgforge.svg)](https://circleci.com/gh/akerl/prospectus-pkgforge)
 [![Coverage Status](https://img.shields.io/codecov/c/github/akerl/prospectus-pkgforge.svg)](https://codecov.io/github/akerl/prospectus-pkgforge)
-[![Code Quality](https://img.shields.io/codacy/.svg)](https://www.codacy.com/app/akerl/prospectus-pkgforge)
+[![Code Quality](https://img.shields.io/codacy/a125103a704642cea2ebcbc7f561ed34.svg)](https://www.codacy.com/app/akerl/prospectus-pkgforge)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
 Prospectus helpers for pkgforge
