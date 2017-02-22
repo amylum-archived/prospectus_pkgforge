@@ -8,7 +8,7 @@ prospectus-pkgforge
 [![Code Quality](https://img.shields.io/codacy/.svg)](https://www.codacy.com/app/akerl/prospectus-pkgforge)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
-SHORT_DESCRIPTION
+Prospectus helpers for pkgforge
 
 ## Usage
 
