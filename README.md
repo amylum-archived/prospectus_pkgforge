@@ -2,7 +2,7 @@ prospectus-pkgforge
 =========
 
 [![Gem Version](https://img.shields.io/gem/v/prospectus-pkgforge.svg)](https://rubygems.org/gems/prospectus-pkgforge)
-[![Dependency Status](https://img.shields.io/gemnasium/akerl/prospectus-pkgforge.svg)](https://gemnasium.com/akerl/prospectus-pkgforge)
+[![Dependency Status](https://img.shields.io/gemnasium/amylum/prospectus-pkgforge.svg)](https://gemnasium.com/amylum/prospectus-pkgforge)
 [![Build Status](https://img.shields.io/circleci/project/amylum/prospectus-pkgforge.svg)](https://circleci.com/gh/amylum/prospectus-pkgforge)
 [![Coverage Status](https://img.shields.io/codecov/c/github/amylum/prospectus-pkgforge.svg)](https://codecov.io/github/amylum/prospectus-pkgforge)
 [![Code Quality](https://img.shields.io/codacy/a125103a704642cea2ebcbc7f561ed34.svg)](https://www.codacy.com/app/akerl/prospectus-pkgforge)
