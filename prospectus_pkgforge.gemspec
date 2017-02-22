@@ -13,6 +13,9 @@ Gem::Specification.new do |s|
   s.files       = `git ls-files`.split
   s.test_files  = `git ls-files spec/*`.split
 
+  s.add_dependency 'pkgforge', '~> 0.15.0'
+  s.add_dependency 'prospectus', '~> 0.2.0'
+
   s.add_development_dependency 'rubocop', '~> 0.42.0'
   s.add_development_dependency 'rake', '~> 11.2.0'
   s.add_development_dependency 'codecov', '~> 0.1.1'
