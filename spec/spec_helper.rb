@@ -8,4 +8,4 @@ if ENV['CI'] == 'true'
 end
 
 require 'rspec'
-require 'prospectus-pkgforge'
+require 'prospectus_pkgforge'
