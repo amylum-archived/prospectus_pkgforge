@@ -6,6 +6,6 @@ item do
 
   actual do
     gemnasium
-    slug 'akerl/prospectus-pkgforge'
+    slug 'amylum/prospectus-pkgforge'
   end
 end
