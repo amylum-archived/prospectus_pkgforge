@@ -16,9 +16,9 @@ Gem::Specification.new do |s|
   s.add_dependency 'pkgforge', '~> 0.15.0'
   s.add_dependency 'prospectus', '~> 0.2.0'
 
-  s.add_development_dependency 'rubocop', '~> 0.42.0'
-  s.add_development_dependency 'rake', '~> 11.2.0'
+  s.add_development_dependency 'rubocop', '~> 0.47.1'
+  s.add_development_dependency 'rake', '~> 12.0.0'
   s.add_development_dependency 'codecov', '~> 0.1.1'
   s.add_development_dependency 'rspec', '~> 3.5.0'
-  s.add_development_dependency 'fuubar', '~> 2.1.0'
+  s.add_development_dependency 'fuubar', '~> 2.2.0'
 end
