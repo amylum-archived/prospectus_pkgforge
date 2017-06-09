@@ -10,7 +10,7 @@ module ProspectusPkgforge
         PkgForge.load_from_file.deps.each do |dep_name, current_hash|
           current_version = current_hash[:version]
           item do
-            name dep_name
+            name dep_name.to_s
 
             expected do
               github_release
