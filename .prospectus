@@ -1,15 +1,11 @@
+my_slug = 'amylum/prospectus_pkgforge'
+
 Prospectus.extra_dep('file', 'prospectus_circleci')
+Prospectus.extra_dep('file', 'prospectus_gems')
 
 item do
-  expected do
-    static
-    set 'green'
-  end
+  noop
 
-  actual do
-    gemnasium
-    slug 'amylum/prospectus_pkgforge'
-  end
-
-  extend ProspectusCircleci::Build.new('amylum/prospectus_pkgforge')
+  extend ProspectusGems::Gemspec.new
+  extend ProspectusCircleci::Build.new(my_slug)
 end
