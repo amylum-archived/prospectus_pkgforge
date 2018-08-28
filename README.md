@@ -2,7 +2,7 @@ prospectus_pkgforge
 =========
 
 [![Gem Version](https://img.shields.io/gem/v/prospectus_pkgforge.svg)](https://rubygems.org/gems/prospectus_pkgforge)
-[![Build Status](https://img.shields.io/circleci/project/amylum/prospectus_pkgforge.svg)](https://circleci.com/gh/amylum/prospectus_pkgforge)
+[![Build Status](https://img.shields.io/travis/com/amylum/prospectus_pkgforge.svg)](https://travis-ci.com/amylum/prospectus_pkgforge)
 [![Coverage Status](https://img.shields.io/codecov/c/github/amylum/prospectus_pkgforge.svg)](https://codecov.io/github/amylum/prospectus_pkgforge)
 [![Code Quality](https://img.shields.io/codacy/4217bd861d2c4c34b7805416ccb4e85d.svg)](https://www.codacy.com/app/akerl/prospectus_pkgforge)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
