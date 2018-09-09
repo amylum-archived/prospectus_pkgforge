@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'prospectus_pkgforge'
-  s.version     = '0.0.10'
+  s.version     = '0.0.11'
   s.date        = Time.now.strftime('%Y-%m-%d')
 
   s.summary     = 'Prospectus helpers for pkgforge'
